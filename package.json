@@ -1,0 +1,26 @@
+{
+  "name": "react-private-server",
+  "version": "1.0.0",
+  "description": "\"# react-server\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivastu/react-server.git"
+  },
+  "author": "siva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivastu/react-server/issues"
+  },
+  "keywords": "react-private-server",
+  "homepage": "https://github.com/sivastu/react-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
