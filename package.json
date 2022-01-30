@@ -1,5 +1,5 @@
 {
-  "name": "react-private-server",
+  "name": "react-native-private-server",
   "version": "1.0.0",
   "description": "\"# react-server\"",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/sivastu/react-server/issues"
   },
-  "keywords": "react-private-server",
+  "keywords": "react-native-private-server",
   "homepage": "https://github.com/sivastu/react-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
