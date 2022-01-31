@@ -19,8 +19,6 @@
   "keywords": "react-native-private-server",
   "homepage": "https://github.com/sivastu/react-server#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.17.2",
     "nodemon": "^2.0.15"
   }
 }
